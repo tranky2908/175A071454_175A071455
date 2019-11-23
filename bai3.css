@@ -1,0 +1,21 @@
+img
+{
+    position: absolute;
+    z-index: -1;
+padding-top: 100px ;
+padding-left: 400px;
+}
+h2
+{
+    color: #FFCC00;
+    text-align: center;
+}
+body
+{
+    background-color:#A06D21 ;
+}
+.than
+{
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,31 @@
+body
+{
+    font-size: 30px;
+}
+h2
+{
+    text-align: center;
+    color: pink;
+}
+img
+{
+    width: 400px;
+    height: 400px;
+}
+.than
+{
+    display: flex;
+}
+.lk
+{
+    text-align: right;
+}
+samp
+{
+    background-color: pink;
+    color: white;
+}
+.dv ol .s1 ul li
+{
+    list-style:square;
+}

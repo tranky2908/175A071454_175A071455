@@ -1,0 +1,33 @@
+h2
+{
+    text-align: center;
+    color: orangered;
+    border-style: double;
+}
+
+samp
+{
+    font-size: 80px;
+}
+.p1
+{
+    text-align:left;
+}
+p
+{
+    text-align: right;
+    background-color: orangered;
+    font-size: 20px;
+}
+b
+{
+    color: red;
+}
+i
+{
+    background-color: yellowgreen;
+}
+.p2
+{
+    text-align: right;
+}

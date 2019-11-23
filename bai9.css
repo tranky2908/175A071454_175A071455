@@ -1,0 +1,29 @@
+body
+{
+    font-family: Tahoma ;
+    font-size: 12px;
+}
+h1
+{
+    text-align: center;
+    color:  #CC0033;
+}.bang
+{
+margin-left: 350px;
+}
+.s1
+{
+    color: #FFFFFF;
+    background-color: #CC0033;
+}
+.s3
+{
+    text-align: center;
+}
+.bang table
+{
+    width: 600px;
+    height: 500px;
+    border-color: rgb(27, 2, 8);
+    border-collapse: collapse;
+}

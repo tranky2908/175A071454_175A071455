@@ -1,0 +1,30 @@
+img
+{
+    width: 50px;
+    height: 100px;
+}
+body
+{
+    color:black;
+    font-size: 20px;
+    background-image: url(/img/trang-kem-16.jpg);
+}
+h2
+{
+    text-align: center;
+}
+.doan1
+{
+    margin-top: 10px;
+    color: white;
+    background-color:#339999 ;
+}
+.doan
+{
+    margin-top:10px ;
+    color: #339999;
+}
+.p2
+{
+    margin-top: 10px ;
+}
